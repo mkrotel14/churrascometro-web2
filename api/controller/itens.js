@@ -1,5 +1,14 @@
 const model = require("../model");
 
+async function getAllItens() {
+  try {
+    return await model.select().from("bbq");
+  } catch (err) {
+    console.log(err);
+    throw err;
+  }
+}
+
 async function getItens() {
   try {
     return await model.select("item").from("bbq");
@@ -45,7 +54,7 @@ async function alterItem(id, body) {
 
 async function removeItem(id) {
   try {
-    await model("bbq").where({ id }).del();
+    await model("bbq").del().where({ id });
   } catch (err) {
     console.log(err);
     throw err;
@@ -68,6 +77,7 @@ async function amountCalc({ qtdMan, qtdWMan, qtdChild }) {
 
 module.exports = {
   getItens,
+  getAllItens,
   insertItens,
   alterItem,
   removeItem,

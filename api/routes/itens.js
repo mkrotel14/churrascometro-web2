@@ -1,6 +1,7 @@
 const router = new (require("restify-router").Router)();
 const {
   getItens,
+  getAllItens,
   insertItens,
   alterItem,
   removeItem,
@@ -9,6 +10,10 @@ const {
 
 router.get("/", async function (req, res, next) {
   res.json(await getItens());
+});
+
+router.get("/all", async function (req, res, next) {
+  res.json(await getAllItens());
 });
 
 router.post("/", async function (req, res, next) {
