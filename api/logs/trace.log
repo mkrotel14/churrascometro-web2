@@ -1,0 +1,51 @@
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":3043,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T02:58:28.023Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":3043,"level":10,"msg":"GET / 404 4 ms","time":"2020-07-05T03:59:19.251Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":3043,"level":10,"msg":"GET /favicon.ico 404 1 ms","time":"2020-07-05T03:59:19.325Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":5290,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T04:15:08.847Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":5584,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T04:28:24.843Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":5598,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T04:28:32.061Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":5752,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T05:13:14.490Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":511,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T16:32:56.705Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":941,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T16:33:43.729Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":941,"level":10,"msg":"OPTIONS /calcular 405 3 ms","time":"2020-07-05T17:57:57.819Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":941,"level":10,"msg":"OPTIONS /calcular 405 0 ms","time":"2020-07-05T17:59:29.859Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":941,"level":10,"msg":"OPTIONS /calcular 405 0 ms","time":"2020-07-05T18:01:39.496Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1535,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T18:02:54.668Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1569,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T18:03:17.967Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1626,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T18:04:18.823Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1626,"level":10,"msg":"OPTIONS /itens/calcular 405 2 ms","time":"2020-07-05T18:04:53.368Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1626,"level":10,"msg":"OPTIONS /itens/calcular 405 1 ms","time":"2020-07-05T18:07:37.026Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1626,"level":10,"msg":"OPTIONS /itens/calcular 405 1 ms","time":"2020-07-05T18:08:15.696Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1626,"level":10,"msg":"OPTIONS /itens/calcular 405 1 ms","time":"2020-07-05T18:09:07.785Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1626,"level":10,"msg":"OPTIONS /itens/calcular 405 0 ms","time":"2020-07-05T18:40:22.246Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1779,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T18:42:23.900Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1779,"level":10,"msg":"OPTIONS /itens/calcular 405 2 ms","time":"2020-07-05T18:42:39.135Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1779,"level":10,"msg":"OPTIONS /itens/calcular 405 1 ms","time":"2020-07-05T18:43:49.059Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1779,"level":10,"msg":"OPTIONS /itens/calcular 405 1 ms","time":"2020-07-05T18:46:03.996Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1779,"level":10,"msg":"OPTIONS /itens/calcular 405 0 ms","time":"2020-07-05T18:46:12.331Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":1779,"level":10,"msg":"OPTIONS /itens/calcular 405 0 ms","time":"2020-07-05T18:48:49.628Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2044,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T18:59:39.302Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2064,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:01:27.017Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2078,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:02:55.155Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2107,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:04:04.888Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2121,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:04:21.866Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2135,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:04:34.760Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2153,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:05:56.478Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2175,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:06:10.988Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2189,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:06:19.829Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2203,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:15:07.162Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2217,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:15:37.639Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2231,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:18:43.602Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2247,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:20:49.305Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2266,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:21:19.654Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2280,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:21:49.295Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2294,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:22:36.150Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2342,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:23:29.317Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2355,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:24:14.325Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2369,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:24:43.287Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2383,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:24:45.188Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2400,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:26:04.147Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2420,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:26:27.624Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2439,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T19:26:52.945Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2455,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T20:45:31.253Z","v":0}
+{"name":"api","hostname":"DESKTOP-RDG35IE","pid":2539,"level":30,"msg":"api listening at http://[::]:3000","time":"2020-07-05T22:00:24.450Z","v":0}

@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "My API Description",
+  "keywords": [
+    "restify",
+    "template",
+    "boilerplate"
+  ],
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon app.js"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "cors": "^2.8.5",
+    "knex": "^0.21.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "restify": "^6.3.4",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-router": "^0.5.0"
+  }
+}
